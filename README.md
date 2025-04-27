@@ -25,5 +25,5 @@ Aggregated service ratings are displayed area-wise and service-wise.
 Natural Language Processing (NLP) techniques extract sentiment and summarize frequent complaints or keywords.
 Visual insights enable quick identification of low-performing regions or recurring issues.
 This solution brings together structured citizen engagement and data-driven decision-making to improve the quality of municipal service delivery.
-https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ2Mzk1Mzc4OjQ0MDQyMzkiLCJpYXQiOjE3NDU3MjU5NjZ9.6AQNA9TDxpYO1hKQB3DNyCb5Ywzyyxyj0qLzom2lZ9s
 
+https://lambent-phoenix-98c9b7.netlify.app/
