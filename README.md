@@ -26,4 +26,4 @@ Natural Language Processing (NLP) techniques extract sentiment and summarize fre
 Visual insights enable quick identification of low-performing regions or recurring issues.
 This solution brings together structured citizen engagement and data-driven decision-making to improve the quality of municipal service delivery.
 
-https://lambent-phoenix-98c9b7.netlify.app/
+https://lustrous-cajeta-3b8f2c.netlify.app/
