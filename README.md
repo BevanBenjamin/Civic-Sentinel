@@ -1,13 +1,13 @@
 # Civic-Sentinel
 CivicSentinel is a digital feedback and sentiment analysis platform that empowers citizens to express their experience with key public services at a granular, location-based level.
 
-PROBLEM STATEMENT
+PROBLEM STATEMENT:
 Across towns and cities, residents often experience issues with basic services like electricity outages, inconsistent water supply, and irregular garbage collection. These problems usually go unreported, or worse — unheard, especially when feedback is buried in silos or lacks structured data.
 We complain about these problems to neighbors, on WhatsApp groups, or sometimes just ignore them — because even if we want to speak up, there’s no place where our voice actually counts.
 Meanwhile, government officials face a different challenge — they want to improve services, but they often lack real-time, ground-level feedback from the people they serve.
 We need a bridge — a way for households to share what’s working and what’s not — and for local authorities to see, at a glance, where attention is needed.
 
-SOLUTION
+SOLUTION:
 CivicSentinel is a digital feedback and sentiment analysis platform that empowers citizens to express their experience with key public services at a granular, location-based level. It enables feedback collection for the following categories:
 Electricity
 Water Supply
