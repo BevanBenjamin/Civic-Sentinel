@@ -29,5 +29,5 @@ This solution brings together structured citizen engagement and data-driven deci
 Website link: 
 https://lustrous-cajeta-3b8f2c.netlify.app/
 
-Netlify link for deployment:
+Netlify link: 
 https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ2NDExMzEyOjQ0MDg2MDgiLCJpYXQiOjE3NDU3NTA3NjB9.CuwLQrPPtHoKAvTPXPEsM_g2LSXAZyzDR5l_7S3A2WM
